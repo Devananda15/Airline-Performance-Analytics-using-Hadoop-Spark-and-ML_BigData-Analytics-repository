@@ -1,0 +1,2 @@
+# Airline-Performance-Analytics-using-Hadoop-Spark-and-ML_BigData-Analytics-repository
+A Big Data Analytics project built using Apache Hadoop HDFS, Apache Spark, PySpark, and Streamlit to analyze large-scale airline datasets. The project performs airline delay analysis, airport traffic analytics, route visualization, delay trend analysis, and KMeans-based flight clustering through an interactive dashboard.
